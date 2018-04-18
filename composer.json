@@ -1,5 +1,5 @@
 {
-    "name": "cakephp/app",
+    "name": "multidots/cakephp-facebook-api",
     "description": "CakePHP skeleton app",
     "homepage": "https://cakephp.org",
     "type": "project",
